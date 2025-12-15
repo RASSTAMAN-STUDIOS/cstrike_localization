@@ -1,14 +1,13 @@
-Havana- Hostage Rescue
+Havana - Спасение заложников
 
 Ido Magal *ido@valvesoftware.com*
 Macman    *chrisa@valvesoftware.com*
 
 
-Terrorists: You are holding political hostages
-in Habana Vieja, awaiting a chopper lift which
-will arrive to evacuate you immediately after the
-round ends.
+Террористы: Вы удерживаете политических заложников
+в районе Гавана Вьеха, ожидая прибытия вертолёта,
+который эвакуирует вас сразу после окончания раунда.
 
-Counter-Terrorists:  You have control of the perimeter
-and must now rescue all of the surviving hostages before
-the terrorists manage to escape.
+Контр-террористы: Вы контролируете периметр и должны
+спасти всех оставшихся в живых заложников до того,
+как террористы успеют скрыться.

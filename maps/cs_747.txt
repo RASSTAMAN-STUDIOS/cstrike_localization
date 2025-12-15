@@ -1,19 +1,19 @@
-747 Hijack - Hostage Rescue
-by Stephen "Judas" Superville 
+747 Hijack - Спасение заложников
+от Stephen "Judas" Superville
 (witchdawn@hotmail.com)
-textures by  "The Postman" 
+Текстуры от "The Postman"
 (heavengame@yahoo.com)
 
-Counter-Terrorists:  Infiltrate the 
-plane and rescue the remaining hostages 
-from the Terrorists holding them.  
+Контр-террористы: Проникните в
+самолёт и спасите оставшихся заложников,
+которых удерживают террористы.
 
-Terrorists: Prevent the Counter-
-Terrorist team from rescuing the 
-hostages.  
+Террористы: Не допустите, чтобы
+команда контр-террористов спасла
+заложников.
 
-Other Notes: 
-There are 5 hostages in the plane.
+Другие примечания:
+В самолёте находятся 5 заложников.
  
-Special thanks to Leon Nieuwoudt,
-who began the map.
+Особая благодарность Leon Nieuwoudt,
+который начал работу над картой.

@@ -1,13 +1,13 @@
-Canyon Siege - Hostage Rescue
-by N0TH1NG  (n0th1ng@mailcity.com)
+Canyon Siege - Спасение заложников
+от N0TH1NG  (n0th1ng@mailcity.com)
 
-Counter-Terrorists: Enter the POW
-stronghold and rescue the hostages. 
-Take out the Terrorists without 
-jeopardizing the hostages.
+Контр-террористы: Проникните в укрепление
+с военнопленными и освободите заложников.
+Устраните террористов, не подвергая
+заложников опасности.
 
-Terrorists: Prevent Counter-Terrorist
-force from rescuing the hostages.
+Террористы: Не допустите спасения заложников
+контр-террористами.
 
-Other Notes: There are 4 hostages in 
-the mission.
+Другие примечания: В миссии находятся 4
+заложника.

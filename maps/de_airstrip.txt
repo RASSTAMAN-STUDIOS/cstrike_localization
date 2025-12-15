@@ -1,13 +1,13 @@
-Airstrip - Defusion
-by Barney (aka narby) (narby@counter-strike.net)
+Airstrip - Закладка/обезвреживание бомбы
+от Barney (он же narby) (narby@counter-strike.net)
 
-Special thanks to Iikka Keranen, John Morello and Minh Le
+Особая благодарность: Iikka Keranen, John Morello и Minh Le
 
-Counter-Terrorists: Prevent the terrorist
-planting the explosives in the airstrip 
-compound.
+Контр-террористы: Не допустите установки
+взрывчатки террористами на территории
+авиабазы.
 
-Terrorists: Plant the c4 inside the airstrip
-compound and destroy the fuel and cargo areas.
+Террористы: Установите C4 на территории авиабазы
+и уничтожьте топливные и грузовые зоны.
 
-Other Notes: There are 2 bomb points in this map.
+Другие примечания: На карте расположены 2 точки закладки бомбы.

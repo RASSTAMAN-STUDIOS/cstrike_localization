@@ -1,13 +1,12 @@
-Militia - Hostage Rescue
-by Andrew Aumann (andrewja@home.com)
+Militia - Спасение заложников
+от Andrew Aumann (andrewja@home.com)
 
-Counter-Terrorists: Enter Cliffe's 
-Compound to rescue the hostages. Take 
-out the Terrorists without jeopardizing 
-the hostages.
+Контр-террористы: Проникните в комплекс Клиффа
+и спасите заложников. Уничтожьте террористов,
+не подвергая заложников опасности.
 
-Terrorists: Prevent Counter-Terrorist
-force from rescuing the hostages.
+Террористы: Не допустите спасения заложников
+контр-террористами.
 
-Other Notes: There are 4 hostages in 
-the mission and one floater.
+Другие примечания: В миссии находятся 4 заложника
+и один вне группы.

@@ -1,19 +1,19 @@
-OilRig - Assassination
-Map by MacMan (macmaninfi@aol.com)
-Textures by MacMan
-Westland Wessex helicopter by Agent Orange 
+OilRig - Устранение VIP
+Карта от MacMan (macmaninfi@aol.com)
+Текстуры от MacMan
+Вертолёт Westland Wessex от Agent Orange
 [agentorange@freemail.nl]
 
-Background: The most important criminal 
-witness in history has been hiding out on 
-an oilrig as part of a witness protection 
-program. But word is that his location has 
-been discovered. A transport helicopter has 
-been sent in to move the witness to a new 
-location.
+Предыстория: Самый важный уголовный
+свидетель в истории скрывается на
+нефтяной платформе в рамках программы
+защиты свидетелей. Однако стало известно,
+что его местоположение раскрыто. Для
+перемещения свидетеля в новое место был
+отправлен транспортный вертолёт.
 
-Counter-Terrorists: Protect the VIP at all 
-costs. Escort him topside to the helicopter.
+Контр-террористы: Защитите VIP любой ценой.
+Сопроводите его наверх к вертолёту.
 
-Terrorists: Eliminate the VIP before he 
-escapes.
+Террористы: Устраните VIP до того, как он
+сбежит.

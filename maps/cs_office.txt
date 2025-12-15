@@ -1,15 +1,15 @@
-The Office Complex - Hostage Rescue
+The Office Complex - Спасение заложников
 
-by Hobbit (Hobbit@nodream.net)	
-textures by Sphinx and George_Pooshoes.
+от Hobbit (Hobbit@nodream.net)	
+Текстуры от Sphinx и George_Pooshoes.
 
-Counter-Terrorists: Enter the office 
-building and rescue the hostages. 
-Take out the Terrorists without 
-jeopardizing the hostages.
+Контр-террористы: Проникните в офисное
+здание и освободите заложников.
+Устраните террористов, не подвергая
+заложников опасности.
 
-Terrorists: Prevent Counter-Terrorist
-force from rescuing the hostages. 
+Террористы: Не допустите спасения заложников
+контр-террористами.
 
-Other Notes: There are 4 hostages in 
-this mission.
+Другие примечания: В миссии находятся 4
+заложника.

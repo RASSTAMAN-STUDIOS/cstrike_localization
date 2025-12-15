@@ -1,15 +1,14 @@
-Alleyway - Hostage Rescue
-by TYR (tyr@barking-dog.com)
+Alleyway - Спасение заложников
+от TYR (tyr@barking-dog.com)
 
-Counter-Terrorists: 
-Infiltrate Terrorist stronghold and escort 
-the hostages to the rescue zone. Take out 
-the Terrorists without jeopardizing the 
-hostages.
+Контр-террористы:
+Проникните в укрепление террористов и сопроводите
+заложников в зону спасения. Уничтожьте террористов,
+не подвергая заложников опасности.
 
-Terrorists:
-Eliminate the Counter-Terrorist
-force before they rescue any hostages.
+Террористы: 
+Устраните контр-террористов до того,
+как они спасут заложников.
 
-Background:
-There are 4 hostages in the mission.
+Предыстория:
+В миссии находятся 4 заложника.

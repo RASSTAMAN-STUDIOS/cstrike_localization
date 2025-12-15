@@ -23,9 +23,9 @@
 </style>
 </head>
 <body>
-You are playing Counter-Strike v1.6<br>
-Visit the official CS web site @<br>
+Вы играете в Counter-Strike v1.6<br>
+Посетите официальный сайт CS @<br>
 www.counter-strike.net<br>
-<a href="http://www.counter-strike.net">Visit Counter-Strike.net</a>
+<a href="http://www.counter-strike.net">Посетить Counter-Strike.net</a>
 </body>
 </html>

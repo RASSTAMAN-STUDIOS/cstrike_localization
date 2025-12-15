@@ -1,14 +1,14 @@
-Prodigy - Bomb/Defuse
-by Hobbit (hobbit@nodream.net)
+Prodigy - Закладка/обезвреживание бомбы
+от Hobbit (hobbit@nodream.net)
 
-Counter-Terrorists: Prevent Terrorists
-from bombing the computer lab or the fuel
-pipeline control room. Team members must
-defuse any bombs that threaten targeted 
-areas.
+Контр-террористы: Не допустите подрыва
+компьютерной лаборатории или диспетчерской
+топливного трубопровода. Члены команды
+должны обезвредить любую бомбу,
+угрожающую целевым зонам.
 
-Terrorists: The Terrorist carrying the
-C4 must destroy one of the targets. 
+Террористы: Террорист, несущий C4,
+должен уничтожить одну из целей.
 
-Other Notes: There are 2 targets 
-in this mission.
+Другие примечания: На карте расположены
+2 точки закладки бомбы.

@@ -1,15 +1,15 @@
-Dust - Bomb/Defuse
-by DaveJ (http://www.johnsto.co.uk/)
-textures by Macman (MacManInfi@aol.com)
+Dust - Закладка/обезвреживание бомбы
+от DaveJ (http://www.johnsto.co.uk/)
+Текстуры от Macman (MacManInfi@aol.com)
 
-Counter-Terrorists: Prevent Terrorists
-from bombing chemical weapon crates.
-Team members must defuse any bombs 
-that threaten targeted areas.
+Контр-террористы: Не допустите подрыва
+ящиков с химическим оружием. Члены
+команды должны обезвредить любую бомбу,
+угрожающую целевым зонам.
 
-Terrorists: The Terrorist carrying the
-C4 must destroy one of the chemical 
-weapon stashes. 
+Террористы: Террорист, несущий C4,
+должен уничтожить один из тайников
+с химическим оружием.
 
-Other Notes: There are 2 chemical 
-weapon stashes in the mission.
+Другие примечания: В миссии находятся
+2 тайника с химическим оружием.

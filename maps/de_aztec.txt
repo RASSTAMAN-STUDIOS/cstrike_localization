@@ -1,11 +1,11 @@
-Aztec - Defusion
-by Chris Auty (Barney) (narby@counter-strike.net)
-Texture builds by Macman 
+Aztec - Закладка/обезвреживание бомбы
+от Chris Auty (Barney) (narby@counter-strike.net)
+Текстуры от Macman
 
-Counter-Terrorists: Prevent the Terrorists
-bombing the archeological site.
+Контр-террористы: Не допустите подрыва
+археологического объекта террористами.
 
-Terrorists: Destroy the valuable Aztec ruins.
+Террористы: Уничтожьте ценные руины ацтеков.
 
-Other Notes: There are 2 bomb sites in this 
-mission.
+Другие примечания: На карте расположены 2 точки
+закладки бомбы.

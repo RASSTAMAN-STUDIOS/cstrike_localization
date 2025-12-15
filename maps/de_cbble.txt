@@ -1,15 +1,14 @@
-Cobble - Bomb/Defuse
-by DaveJ (http://www.johnsto.co.uk/)
-textures by MacMan (MacManInfi@aol.com)
+Cobble - Закладка/обезвреживание бомбы
+от DaveJ (http://www.johnsto.co.uk/)
+Текстуры от MacMan (MacManInfi@aol.com)
 
-Counter-Terrorists: Prevent Terrorists
-from bombing Lord William's country 
-farmhouse. He has been the target of 
-assassination in light of recent government
-proposals.
+Контр-террористы: Не допустите подрыва
+загородного дома лорда Уильяма.
+Он стал целью покушения в связи с
+недавними правительственными инициативами.
 
-Terrorists: The Terrorist carrying the
-C4 must place the bomb at one of the two
-bomb sites around the map, thereby 
-killing Lord William and severely 
-damaging his home.
+Террористы: Террорист, несущий C4,
+должен установить бомбу в одной из двух
+точек закладки на карте, чтобы убить
+лорда Уильяма и нанести серьёзный
+ущерб его дому.

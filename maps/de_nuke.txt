@@ -1,14 +1,15 @@
-Nuke - Bomb/Defuse
-by Jo Bieg (MEEEEDIC@gmx.net)
+Nuke - Закладка/обезвреживание бомбы
+от Jo Bieg (MEEEEDIC@gmx.net)
 
-Counter-Terrorists: Prevent Terrorists
-from bombing the nuclear missile. The 
-mission can be targeted from above and
-below. Team members must defuse any 
-bombs that threaten targeted areas.
+Контр-террористы: Не допустите подрыва
+ядерной ракеты террористами. Цели
+могут быть атакованы как на верхнем,
+так и на нижнем уровне. Члены команды
+должны обезвредить любую бомбу,
+угрожающую целевым зонам.
 
-Terrorists: The Terrorist carrying the
-C4 must destroy the nuclear missile.
+Террористы: Террорист, несущий C4,
+должен уничтожить ядерную ракету.
 
-Other Notes: There are 2 bomb targets
-in the mission.
+Другие примечания: На карте расположены
+2 точки закладки бомбы.

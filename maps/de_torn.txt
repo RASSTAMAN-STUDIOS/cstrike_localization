@@ -1,14 +1,13 @@
-Torn - Bomb/Defuse
-by Crinity & Madcross
+Torn - Закладка/обезвреживание бомбы
+от Crinity и Madcross
 www.planethalflife.com/crinity/
 
-Terrorists: Detonate a toxic nerve agent 
-into the town's water supply that will 
-spread to nearby cities.
+Террористы: Взорвите токсичное нервно-паралитическое
+вещество, чтобы оно попало в систему водоснабжения
+города и распространилось по ближайшим городам.
 
-Counter-Terrorists: Contain the situation. 
-Prevent hostiles from completing their 
-objectives.
+Контр-террористы: Возьмите ситуацию под контроль.
+Не допустите выполнения целей противниками.
 
-Other Notes: There are 2 detonation
-targets in the town.
+Другие примечания: В городе находятся
+2 цели для подрыва.

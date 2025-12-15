@@ -1,14 +1,15 @@
-Inferno - Defusion
-by Chris Auty (Barney) (narby@counter-strike.net)
-Texture builds by Valve software
+Inferno - Закладка/обезвреживание бомбы
+от Chris Auty (Barney) (narby@counter-strike.net)
+Текстуры от Valve Software
 
-Terrorist are attempting to blow up two critical
-gas pipeline through part of a small village.
+Террористы пытаются взорвать два критически
+важных газопровода, проходящих через часть
+небольшой деревни.
 
-Counter-Terrorists: Prevent the terrorists
-from destroying the pipelines.
+Контр-террористы: Не допустите уничтожения
+газопроводов террористами.
 
-Terrorists: Destroy the two gas pipelines.
+Террористы: Уничтожьте два газопровода.
 
-Other Notes: There are 2 bomb sites in this 
-mission.
+Другие примечания: На карте расположены 2 точки
+закладки бомбы.

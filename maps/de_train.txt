@@ -1,12 +1,12 @@
-Trainyard - Bomb/Defuse
+Trainyard - Закладка/обезвреживание бомбы
 
-Counter-Terrorists: Prevent Terrorists
-from bombing the nuclear payloads on two
-trains. Team members must defuse any 
-bombs that threaten the payloads.
+Контр-террористы: Не допустите подрыва
+ядерных грузов на двух поездах.
+Члены команды должны обезвредить
+любую бомбу, угрожающую этим грузам.
 
-Terrorists: The Terrorist carrying the
-C4 must destroy one of the payloads. 
+Террористы: Террорист, несущий C4,
+должен уничтожить один из грузов.
 
-Other Notes: There are 2 payloads on the
-trains in the mission.
+Другие примечания: В этой миссии на
+поездах находятся 2 груза.

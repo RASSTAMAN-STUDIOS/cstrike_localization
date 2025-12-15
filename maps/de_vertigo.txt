@@ -1,14 +1,13 @@
-Vertigo - Defusion
-by Chris Auty (Barney) (fragged101@yahoo.com)
-Texture builds by Telnets and J0esm0e
+Vertigo - Закладка/обезвреживание бомбы
+от Chris Auty (Barney) (fragged101@yahoo.com)
+Текстуры от Telnets и J0esm0e
 
-Terrorists are trying to bomb rizzleton tower 
-before it reaches completion. 
+Террористы пытаются взорвать башню Rizzleton
+до завершения её строительства.
 
-Counter-Terrorists: Prevent the builing from 
-being destroyed.
+Контр-террористы: Не допустите разрушения
+здания.
 
-Terrorists: Plant the bomb and blow up the
-building.
+Террористы: Заложите бомбу и уничтожьте здание.
 
-Other Notes: Dont fall off.
+Другие примечания: Старайтесь не срываться вниз.
